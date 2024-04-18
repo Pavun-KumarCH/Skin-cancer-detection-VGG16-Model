@@ -32,7 +32,7 @@ Skin cancer affects a large population, with alarming statistics highlighting th
 
 
 ## Developer:
-PavanKumar(pavun9848@gmail.com)
+Pavan Kumar CH(pavun9848@gmail.com)
 
 
 ## Program Affiliation:
